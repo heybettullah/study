@@ -1,0 +1,22 @@
+ .navbar {
+  background-color: #5c2c90;
+}
+ #modal {
+   background-color: #5c2c90;
+ }
+.textpink {
+  color: #fa4d88;
+}
+.fa{
+  font-size:24px
+}
+.arrow-up {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+
+  border-bottom: 10px solid white;
+  Position: absolute; left:39.3%; bottom:0; transform: translateX(-50%);
+
+}
