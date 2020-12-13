@@ -3,6 +3,9 @@
   border-bottom: blue 3px solid;
   opacity: 0.8;
  background-color: #00000099;
+  .nav-link.active{
+    border-bottom: yellow 3px solid;
+  }
 }
 #home {
   background-image: url("../../../assets/gta-img/pexels-pat-whelen-5614594.jpg");
